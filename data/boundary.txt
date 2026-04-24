@@ -1,0 +1,26 @@
+site	drainage	initial_snowpack_depth_in_mm
+Andrew AGDM	0.1	100.0
+Atmore AGDM	0.8	100.0
+Barnwell AGDM	1	100.0
+Breton Plots	0.1	100.0
+Brocket AGDM	0.5	100.0
+Champion AGDM	0.8	100.0
+Cleardale AGDM	0.5	100.0
+Del Bonita AGDM	0.8	100.0
+Fairview AGDM	0.8	100.0
+High Prairie AGDM	0.1	100.0
+Hussar AGDM	0.8	100.0
+Killam AGDM	0.8	100.0
+Lethbridge CDA	0.8	100.0
+Morrin AGDM	1	100.0
+Mundare AGDM	0.8	100.0
+Olds College AGDM	0.1	100.0
+Oliver AGDM	0.5	100.0
+Oyen AGDM	0.8	100.0
+Peoria AGDM	0.5	100.0
+Schuler AGDM	0.8	100.0
+Smoky Lake AGDM	0.8	100.0
+Stettler AGDM	0.5	100.0
+Tomahawk AGDM	0.5	100.0
+Vermilion AGDM	1	100.0
+Wrentham AGDM	0.8	100.0

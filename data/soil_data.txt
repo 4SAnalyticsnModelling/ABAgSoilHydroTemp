@@ -1,0 +1,1801 @@
+site	year	crop	depth	porosity	field_capacity	wilting_point	ksat_mm_h	initial_soil_moisture	inflection_point_negMPa
+Andrew AGDM	2007	Grass	1	0.52	0.389	0.096	-1	0.096	0.027
+Andrew AGDM	2007	Grass	9	0.52	0.389	0.096	-1	0.096	0.027
+Andrew AGDM	2007	Grass	15	0.44	0.376	0.159	-1	0.159	0.042
+Andrew AGDM	2007	Grass	25	0.44	0.376	0.159	-1	0.159	0.042
+Andrew AGDM	2007	Grass	35	0.44	0.376	0.159	-1	0.159	0.042
+Andrew AGDM	2007	Grass	45	0.44	0.376	0.159	-1	0.159	0.042
+Andrew AGDM	2007	Grass	55	0.41	0.371	0.322	-1	0.322	0.003
+Andrew AGDM	2007	Grass	65	0.41	0.371	0.322	-1	0.322	0.003
+Andrew AGDM	2007	Grass	75	0.41	0.371	0.322	-1	0.322	0.003
+Andrew AGDM	2007	Grass	85	0.41	0.371	0.322	-1	0.322	0.003
+Andrew AGDM	2007	Grass	95	0.41	0.371	0.322	-1	0.322	0.003
+Andrew AGDM	2007	Grass	105	0.4	0.375	0.346	-1	0.346	0.002
+Andrew AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Andrew AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2007	Grass	1	0.43	0.366	0.118	-1	0.118	0.038
+Atmore AGDM	2007	Grass	9	0.43	0.366	0.118	-1	0.118	0.038
+Atmore AGDM	2007	Grass	15	0.42	0.315	0.125	-1	0.125	0.022
+Atmore AGDM	2007	Grass	25	0.42	0.315	0.125	-1	0.125	0.022
+Atmore AGDM	2007	Grass	35	0.42	0.315	0.125	-1	0.125	0.022
+Atmore AGDM	2007	Grass	45	0.42	0.315	0.125	-1	0.125	0.022
+Atmore AGDM	2007	Grass	55	0.39	0.284	0.194	-1	0.194	0.003
+Atmore AGDM	2007	Grass	65	0.39	0.284	0.194	-1	0.194	0.003
+Atmore AGDM	2007	Grass	75	0.39	0.284	0.194	-1	0.194	0.003
+Atmore AGDM	2007	Grass	85	0.39	0.284	0.194	-1	0.194	0.003
+Atmore AGDM	2007	Grass	95	0.39	0.284	0.194	-1	0.194	0.003
+Atmore AGDM	2007	Grass	105	0.39	0.23	0.176	-1	0.176	0.001
+Atmore AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Atmore AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2007	Grass	1	0.41	0.248	0.063	-1	0.063	0.018
+Barnwell AGDM	2007	Grass	9	0.41	0.248	0.063	-1	0.063	0.018
+Barnwell AGDM	2007	Grass	15	0.41	0.28	0.103	-1	0.103	0.016
+Barnwell AGDM	2007	Grass	25	0.41	0.28	0.103	-1	0.103	0.016
+Barnwell AGDM	2007	Grass	35	0.41	0.28	0.103	-1	0.103	0.016
+Barnwell AGDM	2007	Grass	45	0.41	0.28	0.103	-1	0.103	0.016
+Barnwell AGDM	2007	Grass	55	0.4	0.243	0.091	-1	0.091	0.012
+Barnwell AGDM	2007	Grass	65	0.4	0.243	0.091	-1	0.091	0.012
+Barnwell AGDM	2007	Grass	75	0.4	0.243	0.091	-1	0.091	0.012
+Barnwell AGDM	2007	Grass	85	0.4	0.243	0.091	-1	0.091	0.012
+Barnwell AGDM	2007	Grass	95	0.4	0.243	0.091	-1	0.091	0.012
+Barnwell AGDM	2007	Grass	105	0.41	0.324	0.142	-1	0.142	0.024
+Barnwell AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Barnwell AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Breton Plots	2007	Grass	1	0.47	0.217	0.122	-1	0.122	0.004
+Breton Plots	2007	Grass	9	0.47	0.217	0.122	-1	0.122	0.004
+Breton Plots	2007	Grass	15	0.42	0.31	0.271	-1	0.271	0.001
+Breton Plots	2007	Grass	25	0.42	0.31	0.271	-1	0.271	0.001
+Breton Plots	2007	Grass	35	0.42	0.31	0.271	-1	0.271	0.001
+Breton Plots	2007	Grass	45	0.42	0.31	0.271	-1	0.271	0.001
+Breton Plots	2007	Grass	55	0.42	0.404	0.334	-1	0.334	0.038
+Breton Plots	2007	Grass	65	0.42	0.404	0.334	-1	0.334	0.038
+Breton Plots	2007	Grass	75	0.42	0.404	0.334	-1	0.334	0.038
+Breton Plots	2007	Grass	85	0.42	0.404	0.334	-1	0.334	0.038
+Breton Plots	2007	Grass	95	0.42	0.404	0.334	-1	0.334	0.038
+Breton Plots	2007	Grass	105	0.42	0.398	0.356	-1	0.356	0.009
+Breton Plots	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Breton Plots	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Breton Plots	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Breton Plots	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Breton Plots	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Breton Plots	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2007	Grass	1	0.48	0.403	0.159	-1	0.159	0.034
+Brocket AGDM	2007	Grass	9	0.48	0.403	0.159	-1	0.159	0.034
+Brocket AGDM	2007	Grass	15	0.41	0.388	0.254	-1	0.254	0.057
+Brocket AGDM	2007	Grass	25	0.41	0.388	0.254	-1	0.254	0.057
+Brocket AGDM	2007	Grass	35	0.41	0.388	0.254	-1	0.254	0.057
+Brocket AGDM	2007	Grass	45	0.41	0.388	0.254	-1	0.254	0.057
+Brocket AGDM	2007	Grass	55	0.41	0.4	0.353	-1	0.353	0.04
+Brocket AGDM	2007	Grass	65	0.41	0.4	0.353	-1	0.353	0.04
+Brocket AGDM	2007	Grass	75	0.41	0.4	0.353	-1	0.353	0.04
+Brocket AGDM	2007	Grass	85	0.41	0.4	0.353	-1	0.353	0.04
+Brocket AGDM	2007	Grass	95	0.41	0.4	0.353	-1	0.353	0.04
+Brocket AGDM	2007	Grass	105	0.41	0.396	0.385	-1	0.385	0.002
+Brocket AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Brocket AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Champion AGDM	2007	Grass	1	0.42	0.286	0.121	-1	0.121	0.012
+Champion AGDM	2007	Grass	9	0.42	0.286	0.121	-1	0.121	0.012
+Champion AGDM	2007	Grass	15	0.42	0.36	0.19	-1	0.19	0.026
+Champion AGDM	2007	Grass	25	0.42	0.36	0.19	-1	0.19	0.026
+Champion AGDM	2007	Grass	35	0.42	0.36	0.19	-1	0.19	0.026
+Champion AGDM	2007	Grass	45	0.42	0.36	0.19	-1	0.19	0.026
+Champion AGDM	2007	Grass	55	0.41	0.288	0.117	-1	0.117	0.014
+Champion AGDM	2007	Grass	65	0.41	0.288	0.117	-1	0.117	0.014
+Champion AGDM	2007	Grass	75	0.41	0.288	0.117	-1	0.117	0.014
+Champion AGDM	2007	Grass	85	0.41	0.288	0.117	-1	0.117	0.014
+Champion AGDM	2007	Grass	95	0.41	0.288	0.117	-1	0.117	0.014
+Champion AGDM	2007	Grass	105	0.4	0.276	0.131	-1	0.131	0.012
+Champion AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Champion AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Champion AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Champion AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Champion AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Champion AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2007	Grass	1	0.47	0.383	0.166	-1	0.166	0.025
+Cleardale AGDM	2007	Grass	9	0.47	0.383	0.166	-1	0.166	0.025
+Cleardale AGDM	2007	Grass	15	0.41	0.39	0.28	-1	0.28	0.052
+Cleardale AGDM	2007	Grass	25	0.41	0.39	0.28	-1	0.28	0.052
+Cleardale AGDM	2007	Grass	35	0.41	0.39	0.28	-1	0.28	0.052
+Cleardale AGDM	2007	Grass	45	0.41	0.39	0.28	-1	0.28	0.052
+Cleardale AGDM	2007	Grass	55	0.41	0.4	0.35	-1	0.35	0.044
+Cleardale AGDM	2007	Grass	65	0.41	0.4	0.35	-1	0.35	0.044
+Cleardale AGDM	2007	Grass	75	0.41	0.4	0.35	-1	0.35	0.044
+Cleardale AGDM	2007	Grass	85	0.41	0.4	0.35	-1	0.35	0.044
+Cleardale AGDM	2007	Grass	95	0.41	0.4	0.35	-1	0.35	0.044
+Cleardale AGDM	2007	Grass	105	0.41	0.38	0.32	-1	0.32	0.019
+Cleardale AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Cleardale AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2007	Grass	1	0.42	0.35	0.111	-1	0.111	0.041
+Del Bonita AGDM	2007	Grass	9	0.42	0.35	0.111	-1	0.111	0.041
+Del Bonita AGDM	2007	Grass	15	0.42	0.364	0.181	-1	0.181	0.034
+Del Bonita AGDM	2007	Grass	25	0.42	0.364	0.181	-1	0.181	0.034
+Del Bonita AGDM	2007	Grass	35	0.42	0.364	0.181	-1	0.181	0.034
+Del Bonita AGDM	2007	Grass	45	0.42	0.364	0.181	-1	0.181	0.034
+Del Bonita AGDM	2007	Grass	55	0.41	0.355	0.156	-1	0.156	0.04
+Del Bonita AGDM	2007	Grass	65	0.41	0.355	0.156	-1	0.156	0.04
+Del Bonita AGDM	2007	Grass	75	0.41	0.355	0.156	-1	0.156	0.04
+Del Bonita AGDM	2007	Grass	85	0.41	0.355	0.156	-1	0.156	0.04
+Del Bonita AGDM	2007	Grass	95	0.41	0.355	0.156	-1	0.156	0.04
+Del Bonita AGDM	2007	Grass	105	0.41	0.353	0.251	-1	0.251	0.018
+Del Bonita AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Del Bonita AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2007	Grass	1	0.43	0.336	0.104	-1	0.104	0.027
+Fairview AGDM	2007	Grass	9	0.43	0.336	0.104	-1	0.104	0.027
+Fairview AGDM	2007	Grass	15	0.42	0.264	0.128	-1	0.128	0.007
+Fairview AGDM	2007	Grass	25	0.42	0.264	0.128	-1	0.128	0.007
+Fairview AGDM	2007	Grass	35	0.42	0.264	0.128	-1	0.128	0.007
+Fairview AGDM	2007	Grass	45	0.42	0.264	0.128	-1	0.128	0.007
+Fairview AGDM	2007	Grass	55	0.39	0.358	0.29	-1	0.29	0.014
+Fairview AGDM	2007	Grass	65	0.39	0.358	0.29	-1	0.29	0.014
+Fairview AGDM	2007	Grass	75	0.39	0.358	0.29	-1	0.29	0.014
+Fairview AGDM	2007	Grass	85	0.39	0.358	0.29	-1	0.29	0.014
+Fairview AGDM	2007	Grass	95	0.39	0.358	0.29	-1	0.29	0.014
+Fairview AGDM	2007	Grass	105	0.39	0.34	0.254	-1	0.254	0.014
+Fairview AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Fairview AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2007	Grass	1	0.41	0.395	0.231	-1	0.231	0.088
+High Prairie AGDM	2007	Grass	9	0.41	0.395	0.231	-1	0.231	0.088
+High Prairie AGDM	2007	Grass	15	0.41	0.395	0.324	-1	0.324	0.045
+High Prairie AGDM	2007	Grass	25	0.41	0.395	0.324	-1	0.324	0.045
+High Prairie AGDM	2007	Grass	35	0.41	0.395	0.324	-1	0.324	0.045
+High Prairie AGDM	2007	Grass	45	0.41	0.395	0.324	-1	0.324	0.045
+High Prairie AGDM	2007	Grass	55	0.41	0.395	0.33	-1	0.33	0.041
+High Prairie AGDM	2007	Grass	65	0.41	0.395	0.33	-1	0.33	0.041
+High Prairie AGDM	2007	Grass	75	0.41	0.395	0.33	-1	0.33	0.041
+High Prairie AGDM	2007	Grass	85	0.41	0.395	0.33	-1	0.33	0.041
+High Prairie AGDM	2007	Grass	95	0.41	0.395	0.33	-1	0.33	0.041
+High Prairie AGDM	2007	Grass	105	0.41	0.4	0.378	-1	0.378	0.041
+High Prairie AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+High Prairie AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2007	Grass	1	0.42	0.395	0.212	-1	0.212	0.067
+Hussar AGDM	2007	Grass	9	0.42	0.395	0.212	-1	0.212	0.067
+Hussar AGDM	2007	Grass	15	0.42	0.372	0.238	-1	0.238	0.025
+Hussar AGDM	2007	Grass	25	0.42	0.372	0.238	-1	0.238	0.025
+Hussar AGDM	2007	Grass	35	0.42	0.372	0.238	-1	0.238	0.025
+Hussar AGDM	2007	Grass	45	0.42	0.372	0.238	-1	0.238	0.025
+Hussar AGDM	2007	Grass	55	0.42	0.376	0.266	-1	0.266	0.021
+Hussar AGDM	2007	Grass	65	0.42	0.376	0.266	-1	0.266	0.021
+Hussar AGDM	2007	Grass	75	0.42	0.376	0.266	-1	0.266	0.021
+Hussar AGDM	2007	Grass	85	0.42	0.376	0.266	-1	0.266	0.021
+Hussar AGDM	2007	Grass	95	0.42	0.376	0.266	-1	0.266	0.021
+Hussar AGDM	2007	Grass	105	0.41	0.391	0.35	-1	0.35	0.014
+Hussar AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Hussar AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Killam AGDM	2007	Grass	1	0.42	0.361	0.119	-1	0.119	0.044
+Killam AGDM	2007	Grass	9	0.42	0.361	0.119	-1	0.119	0.044
+Killam AGDM	2007	Grass	15	0.4	0.357	0.119	-1	0.119	0.054
+Killam AGDM	2007	Grass	25	0.4	0.357	0.119	-1	0.119	0.054
+Killam AGDM	2007	Grass	35	0.4	0.357	0.119	-1	0.119	0.054
+Killam AGDM	2007	Grass	45	0.4	0.357	0.173	-1	0.173	0.041
+Killam AGDM	2007	Grass	55	0.39	0.338	0.173	-1	0.173	0.033
+Killam AGDM	2007	Grass	65	0.39	0.338	0.173	-1	0.173	0.033
+Killam AGDM	2007	Grass	75	0.39	0.338	0.173	-1	0.173	0.033
+Killam AGDM	2007	Grass	85	0.39	0.338	0.173	-1	0.173	0.033
+Killam AGDM	2007	Grass	95	0.39	0.338	0.173	-1	0.173	0.033
+Killam AGDM	2007	Grass	105	0.35	0.304	0.149	-1	0.149	0.04
+Killam AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Killam AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Killam AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Killam AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Killam AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Killam AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2007	Grass	1	0.41	0.372	0.194	-1	0.194	0.046
+Lethbridge CDA	2007	Grass	9	0.41	0.372	0.194	-1	0.194	0.046
+Lethbridge CDA	2007	Grass	15	0.41	0.351	0.226	-1	0.226	0.021
+Lethbridge CDA	2007	Grass	25	0.41	0.351	0.226	-1	0.226	0.021
+Lethbridge CDA	2007	Grass	35	0.41	0.351	0.226	-1	0.226	0.021
+Lethbridge CDA	2007	Grass	45	0.41	0.351	0.226	-1	0.226	0.021
+Lethbridge CDA	2007	Grass	55	0.41	0.357	0.265	-1	0.265	0.012
+Lethbridge CDA	2007	Grass	65	0.41	0.357	0.265	-1	0.265	0.012
+Lethbridge CDA	2007	Grass	75	0.41	0.357	0.265	-1	0.265	0.012
+Lethbridge CDA	2007	Grass	85	0.41	0.357	0.265	-1	0.265	0.012
+Lethbridge CDA	2007	Grass	95	0.41	0.357	0.265	-1	0.265	0.012
+Lethbridge CDA	2007	Grass	105	0.41	0.39	0.368	-1	0.368	0.005
+Lethbridge CDA	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Lethbridge CDA	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2007	Grass	1	0.4	0.328	0.103	-1	0.103	0.033
+Morrin AGDM	2007	Grass	9	0.4	0.328	0.103	-1	0.103	0.033
+Morrin AGDM	2007	Grass	15	0.4	0.26	0.122	-1	0.122	0.007
+Morrin AGDM	2007	Grass	25	0.4	0.26	0.122	-1	0.122	0.007
+Morrin AGDM	2007	Grass	35	0.4	0.26	0.122	-1	0.122	0.007
+Morrin AGDM	2007	Grass	45	0.4	0.26	0.122	-1	0.122	0.007
+Morrin AGDM	2007	Grass	55	0.4	0.267	0.163	-1	0.163	0.003
+Morrin AGDM	2007	Grass	65	0.4	0.267	0.163	-1	0.163	0.003
+Morrin AGDM	2007	Grass	75	0.4	0.267	0.163	-1	0.163	0.003
+Morrin AGDM	2007	Grass	85	0.4	0.267	0.163	-1	0.163	0.003
+Morrin AGDM	2007	Grass	95	0.4	0.267	0.163	-1	0.163	0.003
+Morrin AGDM	2007	Grass	105	0.39	0.364	0.299	-1	0.299	0.019
+Morrin AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Morrin AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2007	Grass	1	0.43	0.35	0.122	-1	0.122	0.031
+Mundare AGDM	2007	Grass	9	0.43	0.35	0.122	-1	0.122	0.031
+Mundare AGDM	2007	Grass	15	0.41	0.346	0.143	-1	0.143	0.033
+Mundare AGDM	2007	Grass	25	0.41	0.346	0.143	-1	0.143	0.033
+Mundare AGDM	2007	Grass	35	0.41	0.346	0.143	-1	0.143	0.033
+Mundare AGDM	2007	Grass	45	0.41	0.346	0.143	-1	0.143	0.033
+Mundare AGDM	2007	Grass	55	0.4	0.318	0.229	-1	0.229	0.006
+Mundare AGDM	2007	Grass	65	0.4	0.318	0.229	-1	0.229	0.006
+Mundare AGDM	2007	Grass	75	0.4	0.318	0.229	-1	0.229	0.006
+Mundare AGDM	2007	Grass	85	0.4	0.318	0.229	-1	0.229	0.006
+Mundare AGDM	2007	Grass	95	0.4	0.318	0.229	-1	0.229	0.006
+Mundare AGDM	2007	Grass	105	0.39	0.314	0.23	-1	0.23	0.006
+Mundare AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Mundare AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2007	Grass	1	0.45	0.412	0.164	-1	0.164	0.06
+Olds College AGDM	2007	Grass	9	0.45	0.412	0.164	-1	0.164	0.06
+Olds College AGDM	2007	Grass	15	0.42	0.398	0.217	-1	0.217	0.072
+Olds College AGDM	2007	Grass	25	0.42	0.398	0.217	-1	0.217	0.072
+Olds College AGDM	2007	Grass	35	0.42	0.398	0.217	-1	0.217	0.072
+Olds College AGDM	2007	Grass	45	0.42	0.398	0.217	-1	0.217	0.072
+Olds College AGDM	2007	Grass	55	0.4	0.354	0.284	-1	0.284	0.017
+Olds College AGDM	2007	Grass	65	0.4	0.354	0.284	-1	0.284	0.017
+Olds College AGDM	2007	Grass	75	0.4	0.354	0.284	-1	0.284	0.017
+Olds College AGDM	2007	Grass	85	0.4	0.354	0.284	-1	0.284	0.017
+Olds College AGDM	2007	Grass	95	0.4	0.354	0.284	-1	0.284	0.017
+Olds College AGDM	2007	Grass	105	0.4	0.387	0.369	-1	0.369	0.006
+Olds College AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Olds College AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2007	Grass	1	0.43	0.372	0.161	-1	0.161	0.038
+Oliver AGDM	2007	Grass	9	0.43	0.372	0.161	-1	0.161	0.038
+Oliver AGDM	2007	Grass	15	0.43	0.381	0.196	-1	0.196	0.039
+Oliver AGDM	2007	Grass	25	0.43	0.381	0.196	-1	0.196	0.039
+Oliver AGDM	2007	Grass	35	0.43	0.381	0.196	-1	0.196	0.039
+Oliver AGDM	2007	Grass	45	0.43	0.381	0.196	-1	0.196	0.039
+Oliver AGDM	2007	Grass	55	0.4	0.381	0.266	-1	0.266	0.057
+Oliver AGDM	2007	Grass	65	0.4	0.381	0.266	-1	0.266	0.057
+Oliver AGDM	2007	Grass	75	0.4	0.381	0.266	-1	0.266	0.057
+Oliver AGDM	2007	Grass	85	0.4	0.381	0.266	-1	0.266	0.057
+Oliver AGDM	2007	Grass	95	0.4	0.381	0.266	-1	0.266	0.057
+Oliver AGDM	2007	Grass	105	0.37	0.335	0.297	-1	0.297	0.002
+Oliver AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Oliver AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2007	Grass	1	0.4	0.306	0.188	-1	0.188	0.009
+Oyen AGDM	2007	Grass	9	0.4	0.306	0.188	-1	0.188	0.009
+Oyen AGDM	2007	Grass	15	0.4	0.272	0.162	-1	0.162	0.009
+Oyen AGDM	2007	Grass	25	0.4	0.272	0.162	-1	0.162	0.009
+Oyen AGDM	2007	Grass	35	0.4	0.272	0.162	-1	0.162	0.009
+Oyen AGDM	2007	Grass	45	0.4	0.272	0.162	-1	0.162	0.009
+Oyen AGDM	2007	Grass	55	0.4	0.333	0.21	-1	0.21	0.015
+Oyen AGDM	2007	Grass	65	0.4	0.333	0.21	-1	0.21	0.015
+Oyen AGDM	2007	Grass	75	0.4	0.333	0.21	-1	0.21	0.015
+Oyen AGDM	2007	Grass	85	0.4	0.333	0.21	-1	0.21	0.015
+Oyen AGDM	2007	Grass	95	0.4	0.333	0.21	-1	0.21	0.015
+Oyen AGDM	2007	Grass	105	0.38	0.262	0.245	-1	0.245	0.001
+Oyen AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Oyen AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2007	Grass	1	0.45	0.368	0.141	-1	0.141	0.003
+Peoria AGDM	2007	Grass	9	0.45	0.368	0.141	-1	0.141	0.003
+Peoria AGDM	2007	Grass	15	0.45	0.397	0.141	-1	0.141	0.003
+Peoria AGDM	2007	Grass	25	0.45	0.397	0.141	-1	0.141	0.003
+Peoria AGDM	2007	Grass	35	0.45	0.397	0.141	-1	0.141	0.003
+Peoria AGDM	2007	Grass	45	0.45	0.397	0.263	-1	0.263	0.003
+Peoria AGDM	2007	Grass	55	0.395	0.376	0.263	-1	0.263	0.011
+Peoria AGDM	2007	Grass	65	0.395	0.376	0.263	-1	0.263	0.011
+Peoria AGDM	2007	Grass	75	0.395	0.376	0.263	-1	0.263	0.011
+Peoria AGDM	2007	Grass	85	0.395	0.376	0.263	-1	0.263	0.011
+Peoria AGDM	2007	Grass	95	0.395	0.376	0.263	-1	0.263	0.011
+Peoria AGDM	2007	Grass	105	0.395	0.382	0.3	-1	0.3	0.012
+Peoria AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Peoria AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2007	Grass	1	0.42	0.366	0.235	-1	0.235	0.017
+Schuler AGDM	2007	Grass	9	0.42	0.366	0.235	-1	0.235	0.017
+Schuler AGDM	2007	Grass	15	0.42	0.348	0.158	-1	0.158	0.028
+Schuler AGDM	2007	Grass	25	0.42	0.348	0.158	-1	0.158	0.028
+Schuler AGDM	2007	Grass	35	0.42	0.348	0.158	-1	0.158	0.028
+Schuler AGDM	2007	Grass	45	0.41	0.348	0.158	-1	0.158	0.032
+Schuler AGDM	2007	Grass	55	0.41	0.353	0.2	-1	0.2	0.027
+Schuler AGDM	2007	Grass	65	0.41	0.353	0.2	-1	0.2	0.027
+Schuler AGDM	2007	Grass	75	0.41	0.353	0.2	-1	0.2	0.027
+Schuler AGDM	2007	Grass	85	0.41	0.353	0.2	-1	0.2	0.027
+Schuler AGDM	2007	Grass	95	0.41	0.353	0.2	-1	0.2	0.027
+Schuler AGDM	2007	Grass	105	0.41	0.336	0.215	-1	0.215	0.015
+Schuler AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Schuler AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2007	Grass	1	0.42	0.344	0.141	-1	0.141	0.025
+Smoky Lake AGDM	2007	Grass	9	0.42	0.344	0.141	-1	0.141	0.025
+Smoky Lake AGDM	2007	Grass	15	0.39	0.326	0.234	-1	0.234	0.007
+Smoky Lake AGDM	2007	Grass	25	0.39	0.326	0.234	-1	0.234	0.007
+Smoky Lake AGDM	2007	Grass	35	0.39	0.326	0.234	-1	0.234	0.007
+Smoky Lake AGDM	2007	Grass	45	0.39	0.326	0.234	-1	0.234	0.007
+Smoky Lake AGDM	2007	Grass	55	0.39	0.319	0.263	-1	0.263	0.001
+Smoky Lake AGDM	2007	Grass	65	0.39	0.319	0.263	-1	0.263	0.001
+Smoky Lake AGDM	2007	Grass	75	0.39	0.319	0.263	-1	0.263	0.001
+Smoky Lake AGDM	2007	Grass	85	0.39	0.319	0.263	-1	0.263	0.001
+Smoky Lake AGDM	2007	Grass	95	0.39	0.319	0.263	-1	0.263	0.001
+Smoky Lake AGDM	2007	Grass	105	0.3	0.234	0.2	-1	0.2	0.001
+Smoky Lake AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Smoky Lake AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2007	Grass	1	0.41	0.39	0.257	-1	0.257	0.062
+Stettler AGDM	2007	Grass	9	0.41	0.39	0.257	-1	0.257	0.062
+Stettler AGDM	2007	Grass	15	0.41	0.39	0.36	-1	0.36	0.042
+Stettler AGDM	2007	Grass	25	0.41	0.39	0.36	-1	0.36	0.042
+Stettler AGDM	2007	Grass	35	0.41	0.39	0.36	-1	0.36	0.042
+Stettler AGDM	2007	Grass	45	0.41	0.39	0.36	-1	0.36	0.042
+Stettler AGDM	2007	Grass	55	0.41	0.39	0.36	-1	0.36	0.034
+Stettler AGDM	2007	Grass	65	0.41	0.39	0.36	-1	0.36	0.034
+Stettler AGDM	2007	Grass	75	0.41	0.39	0.36	-1	0.36	0.034
+Stettler AGDM	2007	Grass	85	0.41	0.39	0.36	-1	0.36	0.034
+Stettler AGDM	2007	Grass	95	0.41	0.39	0.36	-1	0.36	0.034
+Stettler AGDM	2007	Grass	105	0.41	0.39	0.374	-1	0.374	0.002
+Stettler AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Stettler AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2007	Grass	1	0.43	0.389	0.154	-1	0.154	0.025
+Tomahawk AGDM	2007	Grass	9	0.43	0.389	0.154	-1	0.154	0.025
+Tomahawk AGDM	2007	Grass	15	0.43	0.41	0.38	-1	0.38	0.013
+Tomahawk AGDM	2007	Grass	25	0.43	0.41	0.38	-1	0.38	0.013
+Tomahawk AGDM	2007	Grass	35	0.43	0.41	0.38	-1	0.38	0.013
+Tomahawk AGDM	2007	Grass	45	0.43	0.41	0.38	-1	0.38	0.013
+Tomahawk AGDM	2007	Grass	55	0.43	0.389	0.309	-1	0.309	0.013
+Tomahawk AGDM	2007	Grass	65	0.43	0.389	0.309	-1	0.309	0.013
+Tomahawk AGDM	2007	Grass	75	0.43	0.389	0.309	-1	0.309	0.013
+Tomahawk AGDM	2007	Grass	85	0.43	0.389	0.309	-1	0.309	0.013
+Tomahawk AGDM	2007	Grass	95	0.43	0.389	0.309	-1	0.309	0.013
+Tomahawk AGDM	2007	Grass	105	0.42	0.389	0.345	-1	0.345	0.007
+Tomahawk AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Tomahawk AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2007	Grass	1	0.42	0.3	0.069	-1	0.069	0.024
+Vermilion AGDM	2007	Grass	9	0.42	0.3	0.069	-1	0.069	0.024
+Vermilion AGDM	2007	Grass	15	0.42	0.3	0.113	-1	0.113	0.017
+Vermilion AGDM	2007	Grass	25	0.42	0.3	0.113	-1	0.113	0.017
+Vermilion AGDM	2007	Grass	35	0.42	0.3	0.113	-1	0.113	0.017
+Vermilion AGDM	2007	Grass	45	0.42	0.3	0.113	-1	0.113	0.017
+Vermilion AGDM	2007	Grass	55	0.42	0.342	0.228	-1	0.228	0.01
+Vermilion AGDM	2007	Grass	65	0.42	0.342	0.228	-1	0.228	0.01
+Vermilion AGDM	2007	Grass	75	0.42	0.342	0.228	-1	0.228	0.01
+Vermilion AGDM	2007	Grass	85	0.42	0.342	0.228	-1	0.228	0.01
+Vermilion AGDM	2007	Grass	95	0.42	0.342	0.228	-1	0.228	0.01
+Vermilion AGDM	2007	Grass	105	0.42	0.377	0.3	-1	0.3	0.009
+Vermilion AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Vermilion AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2007	Grass	1	0.41	0.362	0.105	-1	0.105	0.053
+Wrentham AGDM	2007	Grass	9	0.41	0.362	0.105	-1	0.105	0.053
+Wrentham AGDM	2007	Grass	15	0.41	0.371	0.225	-1	0.225	0.035
+Wrentham AGDM	2007	Grass	25	0.41	0.371	0.225	-1	0.225	0.035
+Wrentham AGDM	2007	Grass	35	0.41	0.371	0.225	-1	0.225	0.035
+Wrentham AGDM	2007	Grass	45	0.41	0.371	0.225	-1	0.225	0.035
+Wrentham AGDM	2007	Grass	55	0.41	0.389	0.314	-1	0.314	0.028
+Wrentham AGDM	2007	Grass	65	0.41	0.389	0.314	-1	0.314	0.028
+Wrentham AGDM	2007	Grass	75	0.41	0.389	0.314	-1	0.314	0.028
+Wrentham AGDM	2007	Grass	85	0.41	0.389	0.314	-1	0.314	0.028
+Wrentham AGDM	2007	Grass	95	0.41	0.389	0.314	-1	0.314	0.028
+Wrentham AGDM	2007	Grass	105	0.41	0.389	0.365	-1	0.365	0.003
+Wrentham AGDM	2008	Grass	1	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	9	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	15	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	25	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	35	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	45	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	55	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	65	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	75	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	85	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	95	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2008	Grass	105	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	1	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	9	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	15	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	25	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	35	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	45	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	55	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	65	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	75	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	85	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	95	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2009	Grass	105	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	1	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	9	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	15	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	25	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	35	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	45	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	55	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	65	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	75	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	85	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	95	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2010	Grass	105	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	1	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	9	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	15	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	25	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	35	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	45	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	55	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	65	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	75	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	85	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	95	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2011	Grass	105	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	1	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	9	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	15	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	25	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	35	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	45	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	55	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	65	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	75	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	85	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	95	-1	-1	-1	-1	-1	-1
+Wrentham AGDM	2012	Grass	105	-1	-1	-1	-1	-1	-1

@@ -1,0 +1,151 @@
+site	year	crop	alberta_township	season_start_date	emergence_date	anthesis_date	early_grain_fill_date	maturity_date	harvest_date	kc_off_season	kc_initial	kc_mid	kc_end
+Andrew AGDM	2007	Grass	57	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Andrew AGDM	2008	Grass	57	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Andrew AGDM	2009	Grass	57	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Andrew AGDM	2010	Grass	57	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Andrew AGDM	2011	Grass	57	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Andrew AGDM	2012	Grass	57	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Atmore AGDM	2007	Grass	67	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Atmore AGDM	2008	Grass	67	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Atmore AGDM	2009	Grass	67	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Atmore AGDM	2010	Grass	67	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Atmore AGDM	2011	Grass	67	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Atmore AGDM	2012	Grass	67	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Barnwell AGDM	2007	Grass	10	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Barnwell AGDM	2008	Grass	10	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Barnwell AGDM	2009	Grass	10	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Barnwell AGDM	2010	Grass	10	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Barnwell AGDM	2011	Grass	10	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Barnwell AGDM	2012	Grass	10	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Breton Plots	2007	Grass	48	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Breton Plots	2008	Grass	48	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Breton Plots	2009	Grass	48	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Breton Plots	2010	Grass	48	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Breton Plots	2011	Grass	48	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Breton Plots	2012	Grass	48	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Brocket AGDM	2007	Grass	8	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Brocket AGDM	2008	Grass	8	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Brocket AGDM	2009	Grass	8	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Brocket AGDM	2010	Grass	8	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Brocket AGDM	2011	Grass	8	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Brocket AGDM	2012	Grass	8	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Champion AGDM	2007	Grass	15	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Champion AGDM	2008	Grass	15	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Champion AGDM	2009	Grass	15	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Champion AGDM	2010	Grass	15	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Champion AGDM	2011	Grass	15	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Champion AGDM	2012	Grass	15	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Cleardale AGDM	2007	Grass	85	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Cleardale AGDM	2008	Grass	85	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Cleardale AGDM	2009	Grass	85	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Cleardale AGDM	2010	Grass	85	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Cleardale AGDM	2011	Grass	85	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Cleardale AGDM	2012	Grass	85	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Del Bonita AGDM	2007	Grass	1	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Del Bonita AGDM	2008	Grass	1	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Del Bonita AGDM	2009	Grass	1	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Del Bonita AGDM	2010	Grass	1	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Del Bonita AGDM	2011	Grass	1	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Del Bonita AGDM	2012	Grass	1	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Fairview AGDM	2007	Grass	82	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Fairview AGDM	2008	Grass	82	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Fairview AGDM	2009	Grass	82	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Fairview AGDM	2010	Grass	82	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Fairview AGDM	2011	Grass	82	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Fairview AGDM	2012	Grass	82	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+High Prairie AGDM	2007	Grass	74	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+High Prairie AGDM	2008	Grass	74	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+High Prairie AGDM	2009	Grass	74	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+High Prairie AGDM	2010	Grass	74	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+High Prairie AGDM	2011	Grass	74	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+High Prairie AGDM	2012	Grass	74	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Hussar AGDM	2007	Grass	26	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Hussar AGDM	2008	Grass	26	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Hussar AGDM	2009	Grass	26	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Hussar AGDM	2010	Grass	26	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Hussar AGDM	2011	Grass	26	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Hussar AGDM	2012	Grass	26	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Killam AGDM	2007	Grass	45	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Killam AGDM	2008	Grass	45	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Killam AGDM	2009	Grass	45	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Killam AGDM	2010	Grass	45	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Killam AGDM	2011	Grass	45	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Killam AGDM	2012	Grass	45	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Lethbridge CDA	2007	Grass	9	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Lethbridge CDA	2008	Grass	9	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Lethbridge CDA	2009	Grass	9	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Lethbridge CDA	2010	Grass	9	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Lethbridge CDA	2011	Grass	9	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Lethbridge CDA	2012	Grass	9	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Morrin AGDM	2007	Grass	31	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Morrin AGDM	2008	Grass	31	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Morrin AGDM	2009	Grass	31	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Morrin AGDM	2010	Grass	31	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Morrin AGDM	2011	Grass	31	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Morrin AGDM	2012	Grass	31	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Mundare AGDM	2007	Grass	53	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Mundare AGDM	2008	Grass	53	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Mundare AGDM	2009	Grass	53	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Mundare AGDM	2010	Grass	53	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Mundare AGDM	2011	Grass	53	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Mundare AGDM	2012	Grass	53	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Olds College AGDM	2007	Grass	32	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Olds College AGDM	2008	Grass	32	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Olds College AGDM	2009	Grass	32	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Olds College AGDM	2010	Grass	32	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Olds College AGDM	2011	Grass	32	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Olds College AGDM	2012	Grass	32	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oliver AGDM	2007	Grass	54	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oliver AGDM	2008	Grass	54	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oliver AGDM	2009	Grass	54	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oliver AGDM	2010	Grass	54	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oliver AGDM	2011	Grass	54	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oliver AGDM	2012	Grass	54	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oyen AGDM	2007	Grass	28	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oyen AGDM	2008	Grass	28	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oyen AGDM	2009	Grass	28	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oyen AGDM	2010	Grass	28	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oyen AGDM	2011	Grass	28	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Oyen AGDM	2012	Grass	28	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Peoria AGDM	2007	Grass	77	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Peoria AGDM	2008	Grass	77	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Peoria AGDM	2009	Grass	77	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Peoria AGDM	2010	Grass	77	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Peoria AGDM	2011	Grass	77	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Peoria AGDM	2012	Grass	77	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Schuler AGDM	2007	Grass	16	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Schuler AGDM	2008	Grass	16	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Schuler AGDM	2009	Grass	16	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Schuler AGDM	2010	Grass	16	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Schuler AGDM	2011	Grass	16	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Schuler AGDM	2012	Grass	16	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Smoky Lake AGDM	2007	Grass	61	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Smoky Lake AGDM	2008	Grass	61	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Smoky Lake AGDM	2009	Grass	61	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Smoky Lake AGDM	2010	Grass	61	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Smoky Lake AGDM	2011	Grass	61	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Smoky Lake AGDM	2012	Grass	61	11-May	06-Jun	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Stettler AGDM	2007	Grass	39	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Stettler AGDM	2008	Grass	39	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Stettler AGDM	2009	Grass	39	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Stettler AGDM	2010	Grass	39	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Stettler AGDM	2011	Grass	39	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Stettler AGDM	2012	Grass	39	30-Apr	21-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Tomahawk AGDM	2007	Grass	52	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Tomahawk AGDM	2008	Grass	52	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Tomahawk AGDM	2009	Grass	52	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Tomahawk AGDM	2010	Grass	52	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Tomahawk AGDM	2011	Grass	52	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Tomahawk AGDM	2012	Grass	52	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Vermilion AGDM	2007	Grass	51	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Vermilion AGDM	2008	Grass	51	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Vermilion AGDM	2009	Grass	51	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Vermilion AGDM	2010	Grass	51	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Vermilion AGDM	2011	Grass	51	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Vermilion AGDM	2012	Grass	51	05-May	27-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Wrentham AGDM	2007	Grass	6	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Wrentham AGDM	2008	Grass	6	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Wrentham AGDM	2009	Grass	6	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Wrentham AGDM	2010	Grass	6	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Wrentham AGDM	2011	Grass	6	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
+Wrentham AGDM	2012	Grass	6	20-Apr	15-May	14-Jul	21-Aug	27-Aug	16-Sep	0.1	0.35	1.05	0.25
