@@ -1,200 +1,229 @@
-# ABAgSoilHydroTemp Scientific Methodology
+# ABAgSoilHydroTemp Methodology and Performance Notes
 
-## Overview
+## 1. Purpose and Scope
 
-`ABAgSoilHydroTemp` is a daily time-step, layered soil water and soil temperature model for agricultural sites in Alberta. The current implementation couples:
+`ABAgSoilHydroTemp` is a one-dimensional daily time-step model for agricultural soils in Alberta. It simulates soil temperature, liquid water, ice content, evapotranspiration uptake, snowpack effects, vertical redistribution of water, and deep drainage for each site-year-crop combination. The model is process-based but intentionally practical, combining physically motivated equations with pragmatic simplifications suitable for data-limited agricultural applications.
 
-- daily weather forcing from `daily_weather.txt`
-- crop phenology and stage-based crop coefficients from `crop.txt`
-- layered soil hydraulic and initial-condition inputs from `soil_data.txt`
-- site-specific drainage and initial snowpack settings from `boundary.txt`
-- user-defined target output layers from `layer.txt`
+## 2. Model Structure
 
-The model is implemented in `src/ab_ag_soil_hydro_temp` and writes one daily output record per `site-year-crop-date`.
+The model workflow is organized across the package modules `main.py`, `io.py`, `crop.py`, `water.py`, `heat.py`, and `common.py`. Together these modules implement daily weather forcing, crop demand, snow accumulation and melt, freeze-thaw partitioning, soil-water redistribution, and soil heat diffusion within a vertically layered soil column.
 
-## Model Structure
+## 3. Spatial Representation and Layers
 
-### Spatial representation
+The model is one-dimensional in the vertical direction. Each site is represented by a layered soil column. Source soil properties from `soil_data.txt` are mapped to target layers defined in `layer.txt`. Each target layer stores bottom depth, thickness, midpoint depth, hydraulic parameters, and dynamic thermal and hydrologic state variables.
 
-The model runs on a one-dimensional soil column. Source soil layers provided in `soil_data.txt` are expanded onto the target layer bottoms specified in `layer.txt`. In the current repository, the target depths are:
+## 4. Weather Forcing
 
-`1, 9, 15, 25, 35, 45, 55, 65, 75, 85, 95, and 105 cm`
+Daily weather forcing is provided as precipitation, maximum air temperature, and minimum air temperature. The model computes mean daily air temperature and temperature range using the standard daily summaries shown below.
 
-Each target layer stores:
+```text
+T_mean = (T_max + T_min) / 2
+```
 
-- total volumetric water content
-- liquid water and ice fractions
-- soil temperature
-- layer hydraulic parameters
-- layer thermal properties
+where `T_mean` is mean daily air temperature (⁰C), `T_max` is daily maximum air temperature (⁰C), and `T_min` is daily minimum air temperature (⁰C).
 
-### Temporal representation
+```text
+T_range = T_max - T_min
+```
 
-The model runs at a daily time step, but the coupled water-snow-temperature solution is internally sub-stepped over the day. This allows precipitation partitioning, snow accumulation and melt, liquid-water movement, evapotranspiration uptake, freeze-thaw partitioning, and heat diffusion to interact within the same daily update.
+where `T_range` is daily air-temperature range (⁰C). The code also derives a cold-condition thaw-bias term from daily temperature range to reduce over-severe daily freezing in conditions with daytime thaw and nighttime cooling.
 
-## Inputs and State Initialization
+## 5. Latitude, Daylength, and Reference Evapotranspiration (ET)
 
-### Weather forcing
+Latitude is estimated from Alberta township number using Dominion Land Survey geometry. Daily daylength is then computed from standard FAO-56 astronomical relationships (Allen et al., 1998). Reference evapotranspiration is represented using a daily Blaney-Criddle form.
 
-`daily_weather.txt` provides daily precipitation, daily maximum air temperature, and daily minimum air temperature for each `site-year-crop` combination. Dates are parsed from `dd-Mon-yy`, `dd-mm-YYYY`, or `YYYY-mm-dd`.
+```text
+ET_o = p * (0.46 * T_mean + 8)
+```
 
-The weather file determines the simulation calendar. If a `site-year-crop` appears in weather but not in soil or crop inputs, the run is skipped for that combination and reported as a warning.
+where `ET_o` is reference evapotranspiration (mm d⁻¹), `p` is the daily percentage contribution of that day to annual daylight hours (percent or fraction converted consistently in the implementation), and `T_mean` is mean daily air temperature (⁰C). This follows the Blaney-Criddle approach described by FAO (Allen et al., 1998).
 
-### Crop development and evapotranspiration
+## 6. Crop Coefficient and Crop Stages
 
-`crop.txt` provides:
+Potential evapotranspiration is computed by scaling reference ET with a daily crop coefficient `K_c`. The value of `K_c` changes with crop stage using dates and coefficients supplied in `crop.txt`.
 
-- Alberta township, which is converted to approximate latitude
-- crop stage dates from season start through harvest
-- crop coefficients for off-season, initial, mid-season, and end-season conditions
+```text
+PET = K_c * ET_o
+```
 
-The code converts township number to latitude using the Dominion Land Survey township spacing from the Alberta south border. Daylength is then computed astronomically from latitude and day of year.
+where `PET` is potential evapotranspiration (mm d⁻¹), `K_c` is crop coefficient (dimensionless), and `ET_o` is reference evapotranspiration (mm d⁻¹). The implemented stages are off season, seeding to emergence, emergence to anthesis, anthesis peak, anthesis to early grain fill, grain fill to maturity, and maturity to harvest.
 
-Potential evapotranspiration is based on a daily Blaney-Criddle formulation:
+## 7. Rooting Depth and Root Weights
 
-`PET = Kc * p * (0.46 * Tmean + 8)`
+Rooting depth is stage dependent, and root uptake weights are distributed with depth using an exponentially decaying active-root term plus a weaker background-access term. This means the model places more uptake capacity in shallow and intermediate layers but still allows some deep access when roots are established.
 
-where:
+## 8. Soil Hydraulic Parameterization
 
-- `p` is the daily percentage of annual daytime hours
-- `Tmean` is daily mean air temperature
-- `Kc` is interpolated from the crop growth stage schedule
+The hydraulic framework is based on the van Genuchten retention model and Mualem conductivity model (van Genuchten, 1980; Mualem, 1976). The soil input file provides porosity, field capacity, wilting point, saturated hydraulic conductivity, initial soil moisture, and an inflection-point suction. From these values the model derives residual water content and the van Genuchten shape parameters.
 
-The crop coefficient is held low from seeding to emergence, increases to a peak by anthesis, stays high through early grain fill, declines toward maturity, and then reverts to the off-season value outside the crop season.
+The liquid-water retention equation is implemented in the following form.
 
-### Soil hydraulic inputs and the meaning of `-1.0`
+```text
+theta = theta_r + (theta_s - theta_r) * [1 + (alpha * |psi|)^n]^(-m)
+```
 
-`soil_data.txt` provides `porosity`, `field_capacity`, `wilting_point`, `ksat_mm_h`, `initial_soil_moisture`, and `inflection_point_negMPa` by `site-year-crop-depth`.
+where `theta` is liquid volumetric water content (m³ m⁻³), `theta_r` is residual volumetric water content (m³ m⁻³), `theta_s` is saturated volumetric water content or porosity (m³ m⁻³), `alpha` is the van Genuchten inverse air-entry parameter (MPa⁻¹), `psi` is matric suction magnitude (MPa), `n` is a shape parameter (dimensionless), and `m = 1 - 1/n` (dimensionless).
 
-For this model, `-1.0` is not a physical soil value. It is a sentinel that means "reuse the previously resolved value for the same site and depth."
+## 9. Freeze-Thaw Water Partitioning
 
-The current code uses that convention in two distinct ways:
+A key feature of the model is that total water in each layer is partitioned into liquid water and ice depending on temperature and suction. The freezing-point depression logic follows the generalized Clapeyron concept used in freezing-soil models such as Dall'Amico et al. (2011).
 
-1. For hydraulic descriptors:
-   `porosity`, `field_capacity`, `wilting_point`, `inflection_point_negMPa`, and `ksat_mm_h`
+For freezing-point depression, the model uses relative total water content rather than liquid-only saturation.
 
-   A negative value means the model carries forward the previous year's resolved hydraulic value for the same site and depth. This is handled in `io.py` before the simulation starts.
+```text
+S_total = (theta_total - theta_r) / (theta_s - theta_r)
+```
 
-2. For initial soil water content:
-   `initial_soil_moisture`
+where `S_total` is relative total water saturation (dimensionless), `theta_total` is total volumetric water content including liquid plus ice (m³ m⁻³), `theta_r` is residual volumetric water content (m³ m⁻³), and `theta_s` is porosity (m³ m⁻³).
 
-   A negative value means the model seeds the current year from the previous available state at that site and depth. The code first tries to use the previous year's simulated end-of-year soil water content. If that does not yet exist, it falls back to the most recent non-negative input seed encountered for that site-depth sequence.
+The depressed freezing temperature is then computed from suction head `h` using a Clapeyron-type relation (Dall'Amico et al., 2011).
 
-This means `-1.0` in `initial_soil_moisture` is a carry-over instruction, not missing data in a generic sense.
+```text
+T_f,dep = T_0 - (g * T_0 / L_f) * h
+```
 
-### Special handling of `ksat_mm_h`
+where `T_f,dep` is depressed freezing temperature (K), `T_0` is the freezing point of pure water (K), `g` is gravitational acceleration (m s⁻²), `L_f` is latent heat of fusion (J kg⁻¹), and `h` is suction head (m).
 
-`ksat_mm_h` also uses `-1.0` as the carry-forward sentinel. In addition, the code contains a special first-year rule:
+This freezing threshold is smoothed and converted into a state-dependent freezing suction before liquid water is obtained from the retention equation. Ice is then assigned as the remainder of total water.
 
-- if every `ksat_mm_h` entry for a given site-depth sequence is negative across all years, the first year's `ksat_mm_h` is estimated from `porosity`, `field_capacity`, `wilting_point`, and `inflection_point_negMPa`
-- this estimate is obtained by fitting constrained van Genuchten parameters and then inverting the Mualem conductivity relation so that conductivity at field capacity is `0.1 mm day-1`
-- that resolved `ksat_mm_h` is then reused for later years at the same site and depth
+```text
+theta_ice = theta_total - theta_liquid
+```
 
-As a result, `-1.0` in `ksat_mm_h` means either:
+where `theta_ice` is volumetric ice content (m³ m⁻³) and `theta_liquid` is volumetric liquid water content (m³ m⁻³).
 
-- carry the previous resolved value forward, or
-- for the first resolved year only, estimate `Ksat` from the other hydraulic anchors when the full site-depth series is negative
+## 10. Unsaturated Hydraulic Conductivity
 
-### Derived hydraulic parameters
+Hydraulic conductivity is based on the Mualem conductivity formulation (Mualem, 1976) combined with the van Genuchten effective saturation function (van Genuchten, 1980):
 
-The model does not require `theta_residual`, `alpha`, `n`, or `m` as direct inputs. Instead, the code derives them from:
+```text
+K = K_sat * K_r(S_e) * f_ice
+```
 
-- porosity
-- field capacity
-- wilting point
-- inflection-point suction magnitude
+where `K` is unsaturated hydraulic conductivity (m s⁻¹), `K_sat` is saturated hydraulic conductivity (m s⁻¹), `K_r` is relative conductivity (dimensionless) as a function of effective saturation `S_e`, and `f_ice` is the ice-impedance factor. The code computes `K_r` with the Mualem-van Genuchten form and scales it by an exponential ice reduction term.
 
-Specifically:
+## 11. Precipitation Partitioning, Snow Accumulation, and Snowmelt
 
-- `theta_residual`
-- `van_genuchten_alpha_per_mpa`
-- `van_genuchten_n`
-- `van_genuchten_m`
+Daily precipitation is partitioned into rainfall and snowfall using a mixed phase temperature derived from air temperature and the snow-surface temperature. Snow is tracked through bulk depth, snow water equivalent, density, and a five-layer snowpack scheme. Snowmelt is represented with a degree-day-type relationship adjusted by daylength.
 
-are solved once for the first resolved year at each site-depth and then reused in subsequent years.
+```text
+M = F_m * D_thaw
+```
 
-## Water Balance Formulation
+where `M` is snowmelt (mm d⁻¹ or substep-equivalent mm), `F_m` is melt factor (mm ⁰C⁻¹ d⁻¹), and `D_thaw` is thaw-degree term (⁰C). The effective liquid input reaching the soil is:
 
-### Precipitation partitioning and snow
+```text
+P_eff = P_rain + M
+```
 
-Daily precipitation is partitioned into rain and snowfall using air temperature and the snow-insulated surface temperature. Snow is represented as a conceptual five-layer pack. Fresh snow is added to the top of the pack, snow ages through time, and the pack conductivity and density evolve with age and overburden.
+where `P_eff` is effective precipitation (mm), `P_rain` is rainfall (mm), and `M` is snowmelt (mm).
 
-Snowmelt is computed with a degree-day approach. The melt factor varies with daylength, so the potential daily melt factor increases during longer days.
+## 12. Snow Insulation and Surface Temperature Coupling
 
-The water available to infiltrate the soil surface on a given day is:
+Snow reduces thermal coupling between air and the topsoil. The model estimates snow thermal conductivity from density and age, converts the snowpack to a thermal resistance, and combines that with the upper-soil resistance. Deeper and less conductive snow insulates the soil and buffers it from atmospheric cold.
 
-`effective_precipitation = rainfall + snowmelt`
+## 13. Vertical Soil-Water Redistribution
 
-### Soil water redistribution
+The model resolves water redistribution using multiple substeps per day. For each adjacent pair of layers it computes a hydraulic gradient from gravity and suction difference and then applies a conductivity-limited flux. A simplified Richards-type relation is used.
 
-Vertical water movement is represented as a simplified one-dimensional Richards-type redistribution scheme. For each layer interface, the model:
+```text
+nablaH = 1 + (psi_lower - psi_upper) / delta_z
+```
 
-- computes liquid-water suction using the van Genuchten retention curve
-- computes unsaturated conductivity using the Mualem relation
-- reduces conductivity when pore water is frozen
-- limits fluxes by donor supply and receiver pore space
+where `nablaH` is total hydraulic gradient (dimensionless), `psi_lower` and `psi_upper` are matric suction heads of the lower and upper layers (m), and `delta_z` is distance between layer centers (m).
 
-Deep drainage is removed from the bottom layer only when water exceeds field capacity, and the drainage rate is capped by both the unsaturated conductivity and the site drainage impedance factor from `boundary.txt`.
+```text
+q = K_interface * nablaH * delta_t
+```
 
-### Root water uptake
+where `q` is vertical water flux over the timestep (m or converted to mm in the code), `K_interface` is interface hydraulic conductivity (m s⁻¹), `nablaH` is total hydraulic gradient (dimensionless), and `delta_t` is timestep length (s). The actual flux is then limited by donor liquid water, receiver pore space, and additional practical caps used to improve numerical stability.
 
-Potential transpiration demand is distributed through the profile using stage-dependent rooting depth and depth weighting. Actual uptake is constrained by:
+## 14. Root Water Uptake
 
-- liquid water availability above wilting point
-- moisture stress between wilting point and field capacity
-- frozen-water limitation
+Root water uptake is computed from potential plant demand, root distribution, liquid water availability, and moisture-stress scaling. A layer contributes to root uptake only if roots are present, liquid water above wilting point is available, and freezing has not strongly reduced access to that water. The implementation allocates demand by root weights, scales it by relative extractable water and frozen fraction, and then redistributes unmet demand to layers that still have removable liquid water.
 
-This makes actual evapotranspiration smaller than potential evapotranspiration under dry or frozen soil conditions.
+## 15. Thermal Properties
 
-## Thermal Formulation
+The thermal module represents volumetric sensible heat capacity as the sum of mineral, liquid-water, ice, and air contributions. This follows standard porous-media heat-capacity accounting.
 
-### Soil heat storage and diffusion
+```text
+C = (1 - phi) * C_s + theta_l * C_w + theta_i * C_i + (phi - theta_total) * C_a
+```
 
-The temperature model is written in terms of volumetric enthalpy. Each layer has:
+where `C` is volumetric sensible heat capacity (J m⁻³ K⁻¹), `phi` is porosity (m³ m⁻³), `C_s` is volumetric heat capacity of the mineral fraction (J m⁻³ K⁻¹), `C_w` is volumetric heat capacity of liquid water (J m⁻³ K⁻¹), `C_i` is volumetric heat capacity of ice (J m⁻³ K⁻¹), `C_a` is volumetric heat capacity of air (J m⁻³ K⁻¹), `theta_l` is liquid volumetric water content (m³ m⁻³), `theta_i` is ice volumetric water content (m³ m⁻³), and `theta_total` is total volumetric water content (m³ m⁻³).
 
-- sensible heat storage from the mineral matrix, liquid water, ice, and air
-- latent heat associated with phase change
+Thermal diffusivity is then computed as:
 
-Thermal diffusivity is estimated from a simplified soil thermal conductivity formulation that depends on porosity, total water content, and ice content. The heat equation is then solved implicitly across the layered soil column each day.
+```text
+alpha_th = lambda / C
+```
 
-### Freeze-thaw coupling
+where `alpha_th` is thermal diffusivity (m² s⁻¹), `lambda` is bulk thermal conductivity (W m⁻¹ K⁻¹), and `C` is volumetric sensible heat capacity (J m⁻³ K⁻¹).
 
-Freeze-thaw partitioning is based on the relation between capillary suction and freezing-point depression. For a given total water content and temperature, the code computes:
+## 16. Enthalpy Formulation and Temperature Inversion
 
-- liquid water content
-- ice content
-- depressed freezing temperature
+The thermal state is advanced through volumetric enthalpy. For each layer, the implementation uses the following enthalpy relation:
 
-This allows the model to represent latent heat buffering and the reduction in hydraulic conductivity associated with frozen pore space.
+```text
+H = C * T - L_v * theta_i
+```
 
-### Lower thermal boundary
+where `H` is volumetric enthalpy (J m⁻³), `C` is volumetric sensible heat capacity (J m⁻³ K⁻¹), `T` is soil temperature (K), `L_v` is volumetric latent heat of fusion (J m⁻³), and `theta_i` is volumetric ice content (m³ m⁻³).
 
-The lower boundary temperature is not fixed as a constant. Instead, the model fits an annual harmonic to the daily mean air temperatures for the simulated year, damps and phase-shifts that harmonic with depth, and applies it at an effective boundary depth below the model column. This gives a seasonally varying lower boundary that is smoother and lagged relative to air temperature.
+Because `theta_i` depends on temperature through the freezing curve, converting between `H` and `T` is nonlinear. The model therefore uses an iterative inversion with a safeguarded Newton update and numerical estimate of `dH/dT`.
 
-## Year-to-Year Carryover
+## 17. Daily Soil Heat Diffusion
 
-The implementation carries the following states from one year to the next for the same site and crop:
+The daily thermal solve is implicit in temperature space for stability, after which the updated temperature is converted back to enthalpy. The energy balance of each layer is:
 
-- end-of-year soil water content by layer
-- end-of-year soil temperature by layer
-- end-of-year snow depth
+```text
+C * delta_z * (T_new - T_old) / delta_t = Q_in - Q_out
+```
 
-This is important because the provided input tables are organized as sequential site-year simulations rather than isolated single years.
+where `C` is volumetric sensible heat capacity (J m⁻³ K⁻¹), `delta_z` is layer thickness (m), `T_new` and `T_old` are new and old temperatures (⁰C), `delta_t` is timestep length (s), and `Q_in` and `Q_out` are conductive heat terms (W m⁻² converted consistently in the discretization).
 
-## Model Performance and Validation
+## 18. Lower Thermal Boundary Condition
 
-The current implementation was tested against site data collected across 25 sites in Alberta from 2008 to 2012. Weather, soil temperature and moisture, and site properties such as soil texture and vegetation were measured as part of the provincial monitoring network documented through Alberta Climate Information Service:
+The lower thermal boundary is not fixed. Instead, the model fits a first annual harmonic to mean daily air temperature and damps it with depth. This follows the standard annual thermal-wave concept for soils (e.g., Andujar Marquez et al., 2016).
+
+```text
+T(z, t) = T_mean + b + D(z) * [A_cos * cos(theta - L(z)) + A_sin * sin(theta - L(z))]
+```
+
+where `T(z, t)` is boundary temperature at depth `z` and time `t` (⁰C), `T_mean` is annual mean air temperature (⁰C), `D(z)` is depth-dependent damping factor (dimensionless), `A_cos` and `A_sin` are harmonic coefficients (⁰C), `theta` is annual phase angle (radians), `L(z)` is depth-dependent phase lag (radians), and `b` is an empirical deep-boundary temperature offset (⁰C). In the code, `D(z) = exp(-z / z_d)` and `L(z) = z / z_d`, with a fixed calibrated damping depth and offset for the lower boundary evaluation.
+
+## 19. Daily Solver Sequence
+
+For each site-year-crop combination, the implemented daily sequence is: compute air-temperature metrics, compute daylength and crop demand, partition precipitation and update snowpack, run substeps of redistribution and root uptake, solve the thermal step, recompute freeze-thaw diagnostics, and write daily outputs.
+
+## 20. Carry-Over Between Years
+
+The model carries forward end-of-year soil moisture, soil temperature, and snow depth to initialize the next year for the same site. This means the simulations are linked across years and are not independent one-year runs unless the user resets those states manually in the input files.
+
+## 21. Inputs and Outputs
+
+Inputs include daily meteorological forcing, layer-wise soil hydraulic properties, crop-stage timing and crop coefficients, boundary drainage and initial snow depth, and the target output-layer structure. Outputs include daily soil temperature, total water content, liquid water, ice content, water storage, plant-available storage, evapotranspiration uptake by layer, interlayer vertical fluxes, deep drainage, thermal diffusivity, latent heat diagnostics, depressed freezing temperature, and fitted hydraulic parameters for each layer.
+
+## 22. Model Performance
+
+Model performance was assessed by comparing modeled and observed soil temperature and soil moisture time series at the same depths and dates. The most informative diagnostics are seasonal timing, freeze-up and thaw timing, amplitude damping with depth, and whether the model reproduces persistence of wet and dry periods. For soil temperature, performance metrics included root mean square error (⁰C), and coefficient of determination (R²). For soil moisture, index of model agreement (Willmott's d) and root mean square error (m³ m⁻³) were used as perfromance validation metrics. Graphical diagnostics were also used as summary metrics. 
+
+The current implementation was tested against site data collected across 25 sites in Alberta from 2008 to 2012. Weather, soil temperature and moisture, and site properties such as soil texture and vegetation were measured as part of the provincial monitoring network led by Alberta Climate Information Service:
 
 <https://acis.alberta.ca/>
 
-The evaluation plots in `docs/plots` compare modelled and measured soil moisture and soil temperature through time at multiple depths for each site. The model is intentionally simple: it uses a daily time step, a one-dimensional soil column, a Blaney-Criddle evapotranspiration formulation, simplified snow physics, and a practical hydraulic parameterization driven by a small set of soil descriptors. Even with that level of simplification, the model performs reasonably well as a screening and comparative tool across sites, seasons, and depths.
+The evaluation plots in `plots` compare modelled and measured soil moisture and soil temperature through time at multiple depths for each site. The model is intentionally simple: it uses a daily time step, a one-dimensional soil column, a Blaney-Criddle evapotranspiration formulation, simplified snow physics, and a practical hydraulic parameterization driven by a small set of soil descriptors. Even with that level of simplification, the model performs reasonably well as a screening and comparative tool across sites, seasons, and depths.
 
 Performance should therefore be interpreted as:
 
 - strong enough for broad site-year pattern reproduction, seasonal timing, and cross-site comparison
 - weaker for event-scale processes, lateral flow, residue effects, preferential flow, and other processes not explicitly resolved
 
-## Validation Figures
+## 23. Practical Interpretation of the Model
+
+The model should be understood as a process-informed simulation framework rather than a fully resolved mechanistic cryo-hydrologic model. It captures the dominant controls relevant to agricultural soils in a way that is computationally manageable and transparent. Its strongest value lies in linking crop demand, snow insulation, freeze-thaw water partitioning, and heat diffusion within one daily framework, while remaining simple enough for multi-site, multi-year application.
+
+## 24. Validation Figures
 
 ### Figure 1: Andrew AGDM comparison of modelled vs. measured soil moisture at different depth over 2008-2012
 
@@ -396,13 +425,16 @@ Performance should therefore be interpreted as:
 
 ![Figure 50: Wrentham AGDM temperature](plots/wrentham_agdm_soil_temperature_timeseries.png)
 
-## Notes on Scope
+## 25. References
 
-This methodology reflects the current Python implementation in `src/ab_ag_soil_hydro_temp`, not the earlier Word document. In particular, it matches the present code paths for:
+Allen, R.G., Pereira, L.S., Raes, D., Smith, M. 1998. Crop evapotranspiration: Guidelines for computing crop water requirements. FAO Irrigation and Drainage Paper 56.
 
-- daily Blaney-Criddle evapotranspiration
-- snowpack layering and degree-day melt
-- van Genuchten and Mualem hydraulic functions
-- freeze-thaw partitioning through freezing-point depression
-- implicit daily heat diffusion in enthalpy form
-- year-to-year carryover of soil water, soil temperature, snow depth, and negative-value input sentinels
+van Genuchten, M.T. 1980. A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. Soil Science Society of America Journal 44: 892-898.
+
+Mualem, Y. 1976. A new model for predicting the hydraulic conductivity of unsaturated porous media. Water Resources Research 12: 513-522.
+
+Dall'Amico, M., Endrizzi, S., Gruber, S., Rigon, R. 2011. A robust and energy-conserving model of freezing variably-saturated soil. The Cryosphere 5: 469-484.
+
+Campbell, G.S. 1974. A simple method for determining unsaturated conductivity from moisture retention data. Soil Science 117: 311-314.
+
+Andujar Marquez, J.M., et al. 2016. Soil temperature prediction models and thermal damping-depth concepts for subsurface processes. Sensors 16(3):306.
