@@ -241,15 +241,3 @@ For each layer except the deepest one, the output also includes:
 | Pattern | Description |
 | --- | --- |
 | `vertical_flux_{depth}_to_next_mm` | Net vertical water flux from this layer to the next deeper layer, mm |
-
-## Scientific Scope
-
-The current implementation uses:
-
-- a daily Blaney-Criddle evapotranspiration framework
-- van Genuchten retention and Mualem conductivity functions
-- a snowpack insulation and degree-day melt treatment
-- freeze-thaw partitioning using a suction-based freezing-point depression relation
-- daily implicit soil heat diffusion solved consistently with the model enthalpy representation
-
-More implementation detail, validation context, and figure links are documented in [`docs/scientific_methodology.md`](docs/scientific_methodology.md).
