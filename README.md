@@ -140,7 +140,7 @@ Target output layers used by the model.
 Notes:
 
 - Source soil horizons from `soil_data.txt` are expanded or mapped onto these target layers before the simulation starts.
-- The current repository configuration uses target depths `1, 9, 15, 25, 35, 45, 55, 65, 75, 85, 95, 105 cm`.
+- The current repository sample data uses target soil layer depths of `1, 9, 15, 25, 35, 45, 55, 65, 75, 85, 95, 105 cm`. However, users can define any depth intervals of their interests.
 
 ## Output File
 
