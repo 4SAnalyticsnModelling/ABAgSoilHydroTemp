@@ -14,19 +14,7 @@ The model is one-dimensional in the vertical direction. Each site is represented
 
 ## 4. Weather Forcing
 
-Daily weather forcing is provided as precipitation, maximum air temperature, and minimum air temperature. The model computes mean daily air temperature and temperature range using the standard daily summaries shown below.
-
-```text
-T_mean = (T_max + T_min) / 2
-```
-
-where `T_mean` is mean daily air temperature (⁰C), `T_max` is daily maximum air temperature (⁰C), and `T_min` is daily minimum air temperature (⁰C).
-
-```text
-T_range = T_max - T_min
-```
-
-where `T_range` is daily air-temperature range (⁰C). The code also derives a cold-condition thaw-bias term from daily temperature range to reduce over-severe daily freezing in conditions with daytime thaw and nighttime cooling.
+Daily weather forcing is provided as precipitation, maximum air temperature, and minimum air temperature. The model computes mean daily air temperature and temperature range from the maximum and minimum air temperature inputs. The code also derives a cold-condition thaw-bias term from daily temperature range to reduce over-severe daily freezing in conditions with daytime thaw and nighttime cooling.
 
 ## 5. Latitude, Daylength, and Reference Evapotranspiration (ET)
 
@@ -429,12 +417,12 @@ The model should be understood as a process-informed simulation framework rather
 
 Allen, R.G., Pereira, L.S., Raes, D., Smith, M. 1998. Crop evapotranspiration: Guidelines for computing crop water requirements. FAO Irrigation and Drainage Paper 56.
 
-van Genuchten, M.T. 1980. A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. Soil Science Society of America Journal 44: 892-898.
-
-Mualem, Y. 1976. A new model for predicting the hydraulic conductivity of unsaturated porous media. Water Resources Research 12: 513-522.
-
-Dall'Amico, M., Endrizzi, S., Gruber, S., Rigon, R. 2011. A robust and energy-conserving model of freezing variably-saturated soil. The Cryosphere 5: 469-484.
+Andujar Marquez, J.M., et al. 2016. Soil temperature prediction models and thermal damping-depth concepts for subsurface processes. Sensors 16(3):306.
 
 Campbell, G.S. 1974. A simple method for determining unsaturated conductivity from moisture retention data. Soil Science 117: 311-314.
 
-Andujar Marquez, J.M., et al. 2016. Soil temperature prediction models and thermal damping-depth concepts for subsurface processes. Sensors 16(3):306.
+Dall'Amico, M., Endrizzi, S., Gruber, S., Rigon, R. 2011. A robust and energy-conserving model of freezing variably-saturated soil. The Cryosphere 5: 469-484.
+
+Mualem, Y. 1976. A new model for predicting the hydraulic conductivity of unsaturated porous media. Water Resources Research 12: 513-522.
+
+van Genuchten, M.T. 1980. A closed-form equation for predicting the hydraulic conductivity of unsaturated soils. Soil Science Society of America Journal 44: 892-898.
