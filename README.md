@@ -63,10 +63,6 @@ Daily meteorological forcing for each `site-year-crop`.
 | `daily_max_air_temp` | Daily maximum air temperature, °C |
 | `daily_min_air_temp` | Daily minimum air temperature, °C |
 
-Notes:
-
-- The model rejects rows where `daily_max_air_temp < daily_min_air_temp`.
-- The weather table defines which `site-year-crop` combinations are simulated.
 
 ### `soil_data.txt`
 
@@ -78,11 +74,11 @@ Layered soil hydraulic and initial-state information for each `site-year-crop`.
 | `year` | Simulation year |
 | `crop` | Crop name |
 | `depth` | Layer bottom depth or depth interval, cm |
-| `porosity` | Saturated volumetric water content, m3 m-3 |
-| `field_capacity` | Volumetric water content at field capacity, m3 m-3 |
-| `wilting_point` | Volumetric water content at wilting point, m3 m-3 |
-| `ksat_mm_h` | Saturated hydraulic conductivity, mm h-1 |
-| `initial_soil_moisture` | Initial volumetric water content, m3 m-3 |
+| `porosity` | Saturated volumetric water content, m³ m⁻³ |
+| `field_capacity` | Volumetric water content at field capacity, m³ m⁻³ |
+| `wilting_point` | Volumetric water content at wilting point, m³ m⁻³ |
+| `ksat_mm_h` | Saturated hydraulic conductivity, mm h⁻¹ |
+| `initial_soil_moisture` | Initial volumetric water content, m³ m⁻³ |
 | `inflection_point_negMPa` | Retention-curve inflection suction magnitude, MPa |
 
 Notes:
@@ -144,11 +140,7 @@ Notes:
 
 ## Output File
 
-The main output is written to:
-
-- [`outputs/ab_ag_soil_hydro_temp_model_outputs.txt`](outputs/ab_ag_soil_hydro_temp_model_outputs.txt)
-
-This file contains one row per simulated `site-year-crop-date`.
+The main output is written to `outputs/ab_ag_soil_hydro_temp_model_outputs.txt`. So make sure to create an `output` folder within the directory before you start running the model. The output file contains one row per simulated `site-year-crop-date`.
 
 ## Output Parameters
 
@@ -207,15 +199,15 @@ The output columns fall into two groups:
 
 ### Depth-Specific Output Families
 
-For each target depth token such as `1`, `9`, `15`, `25`, ..., `105`, the output contains the following repeated fields:
+For each target depth token such as `1`, `9`, `15`, `25`, ..., `105` in the sample data, the output contains the following repeated fields:
 
 | Pattern | Description |
 | --- | --- |
 | `soil_temp_{depth}_c` | Soil temperature at the layer, °C |
-| `theta_{depth}` | Total volumetric water content, m3 m-3 |
-| `theta_liquid_{depth}` | Liquid volumetric water content, m3 m-3 |
-| `theta_ice_{depth}` | Ice volumetric water content, m3 m-3 |
-| `theta_residual_{depth}` | Residual volumetric water content used by the retention curve, m3 m-3 |
+| `theta_{depth}` | Total volumetric water content, m³ m⁻³ |
+| `theta_liquid_{depth}` | Liquid volumetric water content, m³ m⁻³ |
+| `theta_ice_{depth}` | Ice volumetric water content, m³ m⁻³ |
+| `theta_residual_{depth}` | Residual volumetric water content used by the retention curve, m³ m⁻³ |
 | `storage_{depth}_mm` | Total water storage in the layer, mm |
 | `liquid_storage_{depth}_mm` | Liquid water storage in the layer, mm |
 | `ice_storage_{depth}_mm` | Ice storage in the layer, mm |
@@ -226,11 +218,11 @@ For each target depth token such as `1`, `9`, `15`, `25`, ..., `105`, the output
 | `plant_available_storage_{depth}_mm` | Water storage above wilting point, mm |
 | `et_uptake_{depth}_mm` | Root uptake from the layer, mm |
 | `freeze_thaw_damping_{depth}` | Freeze-thaw damping index used diagnostically in the thermal solution |
-| `thermal_diffusivity_{depth}_m2_s` | Soil thermal diffusivity, m2 s-1 |
-| `apparent_latent_heat_capacity_{depth}_j_m3_k` | Apparent latent heat capacity, J m-3 K-1 |
+| `thermal_diffusivity_{depth}_m2_s` | Soil thermal diffusivity, m² s⁻¹ |
+| `apparent_latent_heat_capacity_{depth}_j_m3_k` | Apparent latent heat capacity, J m⁻³ K⁻¹ |
 | `depressed_freezing_temp_{depth}_c` | Freezing-point depression temperature, °C |
-| `ksat_{depth}_m_per_s` | Saturated hydraulic conductivity, m s-1 |
-| `van_genuchten_alpha_{depth}_per_mpa` | van Genuchten alpha parameter, MPa-1 |
+| `ksat_{depth}_m_per_s` | Saturated hydraulic conductivity, m s⁻¹ |
+| `van_genuchten_alpha_{depth}_per_mpa` | van Genuchten alpha parameter, MPa⁻¹ |
 | `van_genuchten_n_{depth}` | van Genuchten n parameter |
 | `van_genuchten_m_{depth}` | van Genuchten m parameter |
 
